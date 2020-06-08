@@ -1,3 +1,5 @@
+# This project is built on a previous member Santiago Bonada
+https://github.com/SGBon/pupil-progs/tree/master/socket/cpp
 The project has to be ran under Ubuntu 
 Written by Santiago Bonada
 1. First we have to install the proper packages. In the commandline do:
