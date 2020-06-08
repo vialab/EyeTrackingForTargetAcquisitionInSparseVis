@@ -1,5 +1,4 @@
 The project has to be ran under Ubuntu. This instruction was Written by Santiago Bonada
-# This project is built on a previous member Santiago Bonada
 https://github.com/SGBon/pupil-progs/tree/master/socket/cpp
 
 1. First we have to install the proper packages. In the commandline do:
