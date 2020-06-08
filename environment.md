@@ -1,7 +1,7 @@
+The project has to be ran under Ubuntu. This instruction was Written by Santiago Bonada
 # This project is built on a previous member Santiago Bonada
 https://github.com/SGBon/pupil-progs/tree/master/socket/cpp
-The project has to be ran under Ubuntu 
-Written by Santiago Bonada
+
 1. First we have to install the proper packages. In the commandline do:
 apt install libzmq3-dev libmsgpack-dev libx11-dev libboost-system-dev libboost-random-dev libboost-date-time-dev libssl-dev cmake
 2. Opencv3 is required, from when this program was written only opencv2 was available in the package manager, if opencv3 is offered then use the package manager for that (apt), otherwise do the next step
